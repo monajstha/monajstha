@@ -70,12 +70,4 @@ I am actively deepening my knowledge in **Software Engineering** with a focus on
 ---
 
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-[![Manoj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=monajstha&show_icons=true&theme=radical)](https://github.com/monajstha)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monajstha&layout=compact&theme=radical)](https://github.com/monajstha)
-
-</div>
